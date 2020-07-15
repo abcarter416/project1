@@ -1,7 +1,7 @@
 # Training Project
 ## First training project for GitHub
-###Key commands
+### Key commands
 * git clone
 * git push
-* git fetch
+** git fetch
 
