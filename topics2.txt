@@ -1,0 +1,4 @@
+Data Warehouse
+Data Lake
+Data Mesh
+Data Fabric
