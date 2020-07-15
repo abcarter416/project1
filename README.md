@@ -3,5 +3,5 @@
 ### Key commands
 * git clone
 * git push
-** git fetch
+* git fetch
 
